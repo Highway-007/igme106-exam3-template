@@ -26,6 +26,7 @@ namespace Exam3_IGME106_2255
         private SpriteFont font;
 
         // TODO: Change this to be whatever game state you are testing & eventually StartScreen when you are done.
+
         private GameState currentState = GameState.Playing; 
 
         // TODO: You're going to need a few more fields.
