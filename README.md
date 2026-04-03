@@ -1,1 +1,0 @@
-# igme106-exam3-template
